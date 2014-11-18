@@ -1,10 +1,11 @@
 package com.wgc;
 
 interface RestaurantInfoManager {
+
 	
-	public void incrementThumbsUp(int id);
+	public String getValue(int id, String fieldName);
 	
-	public int getThumbsUps(int id);
+	public void updateValue(int id, String fieldName, String val);
 	
 	public Restaurant[] getRestaurants();
 	

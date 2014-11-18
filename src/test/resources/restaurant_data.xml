@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+	<restaurant id="0">
+		<name>Olive Garden</name>
+		<thumbsUp>15</thumbsUp>
+	</restaurant>
+	<restaurant id="1">
+		<name>Red Lobster</name>
+		<thumbsUp>17</thumbsUp>
+	</restaurant>
+	<restaurant id="2">
+		<name>Applebee's</name>
+		<thumbsUp>14</thumbsUp>
+	</restaurant>
+	<restaurant id="3">
+		<name>Outback Steakhouse</name>
+		<thumbsUp>18</thumbsUp>
+	</restaurant>
+	<restaurant id="12">
+		<name>Unos</name>
+		<thumbsUp>7</thumbsUp>
+	</restaurant>
+</restaurants>

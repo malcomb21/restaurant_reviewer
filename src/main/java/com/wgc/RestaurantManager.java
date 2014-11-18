@@ -14,4 +14,9 @@ public class RestaurantManager {
 	public static RestaurantManager getInstance(){
 		return INSTANCE;
 	}
+	
+	//TODO MG: Initialize rim
+	public RestaurantInfoManager getRIM() {
+		return rim;
+	}
 }
